@@ -1,0 +1,10 @@
+[2016/4/21 17:48:37][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/4/21 17:50:30][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/4/21 17:51:32][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/4/21 17:55:49][Action:执行任务][Message:我的任务12016/4/21 17:54:48]
+
+[2016/4/21 17:55:49][Action:异常][Message:集合已修改；可能无法执行枚举操作。]
+

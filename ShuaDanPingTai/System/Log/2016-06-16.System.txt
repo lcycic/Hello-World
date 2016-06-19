@@ -1,0 +1,44 @@
+[2016/6/16 0:31:04][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 0:58:54][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 1:56:11][Action:执行任务][Message:我的任务12016/6/16 1:55:11]
+
+[2016/6/16 1:56:11][Action:异常][Message:集合已修改；可能无法执行枚举操作。]
+
+[2016/6/16 2:05:21][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 3:15:39][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 3:35:51][Action:执行任务][Message:我的任务12016/6/16 3:34:50]
+
+[2016/6/16 3:35:51][Action:异常][Message:集合已修改；可能无法执行枚举操作。]
+
+[2016/6/16 3:42:33][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 4:03:42][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 5:36:10][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 13:54:33][Action:执行任务][Message:我的任务12016/6/16 13:53:33]
+
+[2016/6/16 13:54:33][Action:异常][Message:集合已修改；可能无法执行枚举操作。]
+
+[2016/6/16 14:52:36][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 14:55:40][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 14:55:44][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 14:59:36][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 15:01:01][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 15:06:11][Action:执行任务][Message:我的任务12016/6/16 15:05:10]
+
+[2016/6/16 15:06:11][Action:异常][Message:集合已修改；可能无法执行枚举操作。]
+
+[2016/6/16 16:00:22][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
+[2016/6/16 21:48:00][Action:System.Timers.Timer定时器][Message:定时器已启动]
+
